@@ -4,10 +4,17 @@
                 <div class="col-md-6">
                     <h5><i class="fas fa-leaf"></i> Home Ayurveda</h5>
                     <p>Discover natural remedies for a healthier life.</p>
+                    <p>
+                        આયુર્વેદિક ચિકિત્સક: વૈદ્ય ભાનુભાઈ પી. મેતા<br>
+                        સરકારી આયુર્વેદ ડિસ્પેન્સરી, ખેરડી<br>
+                        📧 ઈમેલ: ahweckherdi@gmail.com | 📞 મોબાઈલ: 9824891029
+                    </p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <p>&copy; <?php echo date('Y'); ?> Home Ayurveda. All rights reserved.</p>
-                    <p>Created by Rudrabharthi Goswami</p>
+                    <p style="margin-top: 1rem;">
+                        Developed by Rudrabharthi Goswami & Team
+                    </p>
                 </div>
             </div>
         </div>
